@@ -21,11 +21,11 @@ blender			(tested with blender 3.6.0-usd.200.0)
 
 ## Result 
 
-![PBF3D](D:\work\ComputerGraphics\1\PBF3D\res\PBF3D.gif)
+![PBF3D.gif](https://github.com/WASD4959/PBF3D/blob/master/res/PBF3D.gif?raw=true)
 
-![res_01](D:\work\ComputerGraphics\1\PBF3D\res\res_01.gif)
+![res_01.gif](https://github.com/WASD4959/PBF3D/blob/master/res/res_01.gif?raw=true)
 
-![res_02](D:\work\ComputerGraphics\1\PBF3D\res\res_02.gif)
+![res_02.gif](https://github.com/WASD4959/PBF3D/blob/master/res/res_02.gif?raw=true)
 
 ## References
 
