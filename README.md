@@ -6,7 +6,7 @@ This repository is the implementation of PBF (Postion Based Fluid)  based on tai
 
 ```
 taichi			(tested with 1.5.0)
-opencv-python	    (tested with 4.5.5)
+opencv-python	        (tested with 4.5.5)
 
 blender			(tested with blender 3.6.0-usd.200.0)
 ```
